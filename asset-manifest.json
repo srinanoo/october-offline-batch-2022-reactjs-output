@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://srinanoo.github.io/october-offline-batch-2022-reactjs-output/static/css/main.b4598de9.css",
+    "main.js": "https://srinanoo.github.io/october-offline-batch-2022-reactjs-output/static/js/main.18463f2d.js",
+    "static/js/787.5fe2c70b.chunk.js": "https://srinanoo.github.io/october-offline-batch-2022-reactjs-output/static/js/787.5fe2c70b.chunk.js",
+    "index.html": "https://srinanoo.github.io/october-offline-batch-2022-reactjs-output/index.html",
+    "main.b4598de9.css.map": "https://srinanoo.github.io/october-offline-batch-2022-reactjs-output/static/css/main.b4598de9.css.map",
+    "main.18463f2d.js.map": "https://srinanoo.github.io/october-offline-batch-2022-reactjs-output/static/js/main.18463f2d.js.map",
+    "787.5fe2c70b.chunk.js.map": "https://srinanoo.github.io/october-offline-batch-2022-reactjs-output/static/js/787.5fe2c70b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4598de9.css",
+    "static/js/main.18463f2d.js"
+  ]
+}
